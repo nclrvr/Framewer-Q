@@ -1,5 +1,3 @@
-/* Grid System */
-
 *,
 *:after,
 *:before {
@@ -52,7 +50,6 @@
   height:30px;
 }
 
-.container {
+.html {
 	font-family: 'Dosis', sans-serif;
 }
-

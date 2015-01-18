@@ -20,11 +20,16 @@ hr {
 .div-content
 {
   color:white;
+    background: #ff6d6d;
 
 }
 
 .content {
 	margin: 20% 0 30% 0;
+}
+
+h1, h2, h3, h4 {
+	color: #575757;
 }
 
 h1 {

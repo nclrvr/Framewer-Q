@@ -21,7 +21,6 @@ hr {
 {
   color:white;
     background: #ff6d6d;
-
 }
 
 .content {
@@ -48,4 +47,12 @@ h3 {
 
 h4 {
 	font-size: 1.5em;
+}
+
+/* Button */
+.btn {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 2em;
+	
 }
